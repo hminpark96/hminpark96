@@ -15,7 +15,7 @@ I am a developer with a passion for robotics, mobile robot control, autonomous d
 ## 🌐 Personal Blog
 
 Check out my blog for insights and updates on my projects: [hminpark96.blogspot.com](https://hminpark96.blogspot.com/)
-
+[hminpark96.tistory.com](https://hminpark96.tistory.com/)
 ## 📫 Contact Me
 - **Email**: hminpark96@gmail.com
 - **GitHub**: @hminpark96
